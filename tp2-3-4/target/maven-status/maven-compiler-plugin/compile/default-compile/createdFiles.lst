@@ -1,0 +1,10 @@
+com/housseine/tp2/TP2.class
+com/housseine/tp2/gestion/Etablissement.class
+com/housseine/tp2/article/Manuel.class
+com/housseine/tp2/gestion/GestionBoutique.class
+com/housseine/tp2/article/Livre.class
+com/housseine/tp2/depot/BonDepot.class
+com/housseine/tp2/article/Magazine.class
+com/housseine/tp2/depot/LigneDepot.class
+com/housseine/tp2/article/Article.class
+com/housseine/tp2/gestion/Etablissement$1.class
